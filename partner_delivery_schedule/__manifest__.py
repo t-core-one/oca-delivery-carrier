@@ -11,7 +11,7 @@
     "license": "AGPL-3",
     "application": False,
     "installable": True,
-    "depends": ["delivery"],
+    "depends": ["stock_delivery"],
     "data": [
         "security/ir.model.access.csv",
         "views/partner_delivery_schedule_view.xml",
